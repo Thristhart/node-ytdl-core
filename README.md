@@ -1,4 +1,4 @@
-# node-ytdl-core [![Build Status](https://secure.travis-ci.org/fent/node-ytdl-core.png)](http://travis-ci.org/fent/node-ytdl-core)
+# node-ytdl-core [![Build Status](https://secure.travis-ci.org/fent/node-ytdl-core.png)](http://travis-ci.org/thristhart/node-ytdl-core)
 
 Yet another youtube downloading module. This time written with only Javascript and a more node-friendly streaming interface.
 
